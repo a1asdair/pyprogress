@@ -1,16 +1,12 @@
 # Progress tracker
 # Alasdair Rutherford
 # Created: 26 Aug 21
-# Last edited: 26 Aug 21
+# Last edited: 27 Aug 21
 
 from time import time
 import csv
 
 class Progress:
-
-	# Companies House documentation
-	# Director details
-	# 
 
 	def __init__(self, totalops, datestamp = '', log=False):
 

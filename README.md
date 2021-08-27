@@ -12,11 +12,11 @@ Optional
 
 ## Example
 
->Initiate the tracker
+### Initiate the tracker
 >p = Progress(totalrows, datestamp = rundate, log=True)
 
->Tick the tracker
+### Tick the tracker
 >progress.tick()
 
->Get a progress report
+### Get a progress report
 >print(progress.report())
